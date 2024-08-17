@@ -1,0 +1,267 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+}
+
+#navbar{
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    height: 100px;
+    position: relative;
+}
+
+.logo{
+    margin-left: 50px;
+    margin-top: 30px;
+    align-items: center;
+    text-decoration: none;
+}
+
+
+.anchortag1 a{
+    
+    margin-left: 290px;
+   
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0%;
+    
+    right: 400px;  
+    
+}
+.a1{
+    position: absolute;
+    left: 950px;
+    top: 30px;
+}
+.a2{
+    position: absolute;
+    left: 750px;
+    top: 30px;
+}
+.a3{
+    position: absolute;
+    left: 600px;
+    top: 30px;
+}
+
+.icons1{
+    margin-left: 900px;
+    font-size: 20px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+a{
+    
+    color: black;
+    text-decoration: none;
+}
+#warrenty{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px;
+    i{
+        border: 80px;
+    }
+}
+.warranty{
+    border: 3px;
+}
+#pic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#banner1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+.p1{
+    margin-top: 200px;
+    font-size: 40px;
+    font-weight: 300;
+    margin-right: 40px;
+    font-weight: bolder;
+}
+#banner2{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    height: 400px;
+
+   
+}
+
+.p2{
+    margin-left: 600px;
+    margin-top: 200px;
+}
+#card1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+#container{
+    position: relative;
+    height: 40px;
+    width: 70px;
+    margin-left: 500px;
+    margin-top: 70px;
+    font-size: 130px;
+}
+.text{
+    position: absolute;
+    top: -90px;
+    right: -500px;
+    font-weight: bolder;
+    opacity: 20%;
+}
+#container img{
+    height: 400px;
+}
+.text1{
+    font-size: 20px;
+    font-weight: 500;
+    top: 190px;
+    position: absolute;
+    right: 250px;
+}
+
+.text2{
+    font-size: 20px;
+    font-weight: 500;
+    top: 190px;
+    position: absolute;
+   left: 500px;
+}
+
+.text3{
+    font-size: 20px;
+    font-weight: 500;
+    top: 490px;
+    position: absolute;
+    right: 300px;
+}
+
+.text4{
+    font-size: 20px;
+    font-weight: 500;
+    top: 490px;
+    position: absolute;
+    right: -40px;
+}
+
+.text5{
+    font-size: 20px;
+    font-weight: 500;
+    top: 490px;
+    position: absolute;
+    left: 500px;
+}
+
+.text6{
+    font-size: 20px;
+    font-weight: 500;
+    top: 490px;
+    position: absolute;
+    left: 250px;
+}
+#main2{
+    position: relative;
+    bottom: -700px;
+}
+#main img{
+    position: absolute;
+    height: 200px;
+}
+.main2{
+    position: absolute;
+   bottom: -1000px;
+   margin-bottom: 750px;
+   right: 600px;
+   box-shadow: rgba(239, 4, 184, 0.35) 0px 5px 15px;
+   
+}
+.img1{
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+.head{
+    position: absolute;
+    right: 30px;
+    height: 30px;
+}
+.head h1{
+    position: absolute;
+top: 80px;
+font-weight: bolder;
+font-size: 60px;
+right: 100px;
+}
+.head h3{
+    font-size: 20px;
+    
+}
+.pp{
+    position: absolute;
+    top: 700px;
+    text-align: center;
+    right: 170px;
+}
+#main3{
+    position: relative;
+    top: 1450px;
+}
+#main3 ul{
+    list-style-type: none;
+   
+}
+.ul1{
+    font-weight: 500;
+    line-height: 40px;
+    position: absolute;
+    
+}
+.ul2{
+    font-weight: 500;
+    line-height: 40px;
+    position: absolute;
+    right: 600px;
+}
+
+.ul3{
+    font-weight: 500;
+    line-height: 40px;
+    position: absolute;
+    right: 850px;
+}
+#main4{
+position: absolute;
+right: 40px;
+}
+.logo2{
+    position: absolute;
+    top: 70px;
+    right: 30px;
+}
+.ab{
+position: absolute;
+top: 200px;
+left: -300px;
+}
+.cd{
+    position: absolute;
+top: 200px;
+left: -150px;
+}
